@@ -1,0 +1,7 @@
+let x = 10;
+print x;
+
+while (x < 13) {
+    print x;
+    x = x + 1;
+}
